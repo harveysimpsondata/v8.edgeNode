@@ -1,0 +1,15 @@
+[submodule "edge-node-api"]
+	path = edge-node-api
+	url = https://github.com/OriginTrail/edge-node-api.git
+[submodule "edge-node-authentication-service"]
+	path = edge-node-authentication-service
+	url = https://github.com/OriginTrail/edge-node-authentication-service.git
+[submodule "edge-node-drag"]
+	path = edge-node-drag
+	url = https://github.com/OriginTrail/edge-node-drag.git
+[submodule "edge-node-interface"]
+	path = edge-node-interface
+	url = https://github.com/OriginTrail/edge-node-interface.git
+[submodule "edge-node-knowledge-mining"]
+	path = edge-node-knowledge-mining
+	url = https://github.com/OriginTrail/edge-node-knowledge-mining.git
