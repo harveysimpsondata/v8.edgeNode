@@ -13,3 +13,6 @@
 [submodule "edge-node-knowledge-mining"]
 	path = edge-node-knowledge-mining
 	url = https://github.com/OriginTrail/edge-node-knowledge-mining.git
+[submodule "edge-node-installer"]
+	path = edge-node-installer
+	url = https://github.com/OriginTrail/edge-node-installer.git
